@@ -1,0 +1,5 @@
+What is the difference between add, commit, and push?
+
+git add 增加文件到暂存区或将修改的文件添加到暂存区
+git commit 将暂存区的add文件提交到仓库中
+git push 将本地仓库的修改同步到远程仓库
